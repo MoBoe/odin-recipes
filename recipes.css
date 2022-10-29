@@ -1,0 +1,23 @@
+html{background-color: grey;}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+#dumplings{
+    background-color: red;
+    font-size: large;
+}
+
+
+#butter{
+    font-size: large;
+    background-color: yellow;
+}
+
+
+#potatoes{
+    background-color: green;
+    font-size: large;
+}
